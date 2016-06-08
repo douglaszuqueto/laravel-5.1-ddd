@@ -126,3 +126,6 @@ App\Applications\User\Providers\UserServiceProvider::class,
 ```
  * 10º Rode o projeto com o artisan ou com um servidor externo e veja se está tudo funcionando corretamente.
  Caso queira uma iteração maior, crie uma rota e um controller e teste a aplicação.
+
+### Referência
+ * [CodeCasts - Modularização nativa com Laravel](https://codecasts.com.br/lesson/modularizando-laravel-01-criando-nosso-core)
