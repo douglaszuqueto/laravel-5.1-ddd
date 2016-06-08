@@ -25,7 +25,7 @@ class UserServiceProvider extends ServiceProvider
 
     protected function registerRoutes(Router $router)
     {
-        $router->group(['namespace' => $this->namespace, 'prefix' => env('API_VERSION_PREFIX', 'v1')], function ($router) {
+        $router->group(['namespace' => $this->namespace], function ($router) {
             require app_path('Applications/User/Http/routes.php');
         });
     }
