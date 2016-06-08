@@ -69,8 +69,8 @@
           * Entities
 
 
- * 8º Crie uma Entidade chamada **User**, e não esqueça que o namespace deve seguir no seguinte formato: **App\Domains\User\Entities**, assim respeitando a hierarquia montada;
- * 9º Agora vamos criar uma Application, para isso, permanecendo dentro da pasta **app**, monte a seguinte estutura;
+* 8º Crie uma Entidade chamada **User**, e não esqueça que o namespace deve seguir no seguinte formato: **App\Domains\User\Entities**, assim respeitando a hierarquia montada;
+* 9º Agora vamos criar uma Application, para isso, permanecendo dentro da pasta **app**, monte a seguinte estutura;
   * Applications
       * User
           * Http
